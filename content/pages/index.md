@@ -145,7 +145,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Les avancées majeurs
       color: text-primary
       styles:
         self:
