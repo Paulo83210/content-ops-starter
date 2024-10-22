@@ -139,7 +139,7 @@ sections:
             flexDirection: row
             justifyContent: center
     variant: next-prev-nav-multiple
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         justifyContent: center
