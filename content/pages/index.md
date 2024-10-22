@@ -140,7 +140,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Comprendre ATE
       color: text-dark
   - type: FeaturedItemsSection
     title:
