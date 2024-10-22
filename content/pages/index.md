@@ -40,7 +40,14 @@ sections:
           - pb-16
           - pr-16
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: >-
+      Loto-Québec prépare son avenir avec le projet ATE (Architecture
+      Technologique et Expérientielle). L’objectif ? Moderniser l’infrastructure
+      technologique pour créer des expériences humaines, personnalisées et
+      pertinentes. Avec cette nouvelle architecture composable et donc
+      modulaire, un CMS headless, fini le blocage à l’innovation : nous devenons
+      plus flexibles, plus réactifs, et mieux équipés pour relever les défis de
+      demain.
     items:
       - type: FeaturedItem
         title: >-
