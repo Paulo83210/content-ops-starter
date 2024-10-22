@@ -18,16 +18,7 @@ sections:
       intelligemment plusieurs sources de données, nous pouvons créer des
       expériences révolutionnaires qui réinventent l'avenir du divertissement
       chez Loto-Québec.
-    actions:
-      - label: Nos partenaires
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: '/images/Capture d’écran, le 2024-10-22 à 16.03.59.png'
       altText: Unblock your team boost your time to production preview
