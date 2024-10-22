@@ -19,7 +19,7 @@ sections:
       expériences révolutionnaires qui réinventent l'avenir du divertissement
       chez Loto-Québec.
     actions:
-      - label: Get started
+      - label: Nos partenaires
         altText: ''
         url: /
         showIcon: false
